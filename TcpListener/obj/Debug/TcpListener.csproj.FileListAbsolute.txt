@@ -1,0 +1,6 @@
+C:\Users\Юра\Documents\Visual Studio 2015\Projects\C#\TcpListener\bin\Debug\TcpListener.exe.config
+C:\Users\Юра\Documents\Visual Studio 2015\Projects\C#\TcpListener\bin\Debug\TcpListener.exe
+C:\Users\Юра\Documents\Visual Studio 2015\Projects\C#\TcpListener\bin\Debug\TcpListener.pdb
+C:\Users\Юра\Documents\Visual Studio 2015\Projects\C#\TcpListener\obj\Debug\TcpListener.csprojResolveAssemblyReference.cache
+C:\Users\Юра\Documents\Visual Studio 2015\Projects\C#\TcpListener\obj\Debug\TcpListener.exe
+C:\Users\Юра\Documents\Visual Studio 2015\Projects\C#\TcpListener\obj\Debug\TcpListener.pdb
